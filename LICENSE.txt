@@ -1,0 +1,20 @@
+Plan de Estudio Digital — FIEC
+
+Copyright © 2026 Remby Delmar. Todos los derechos reservados.
+
+Este software y su código fuente son propiedad de Remby Delmar, estudiante
+de la Facultad de Informática, Electrónica y Comunicación (FIEC) de la
+Universidad de Panamá.
+
+Queda prohibida la reproducción, distribución, modificación, o el uso total
+o parcial de este código, en cualquier medio o formato, sin la autorización
+previa y por escrito del autor.
+
+Los planes de estudio, materias, créditos y prerrequisitos incluidos en esta
+herramienta provienen de documentos públicos de la Universidad de Panamá y
+se presentan aquí únicamente con fines informativos y de uso personal; su
+inclusión no constituye cesión de derechos sobre dicho contenido académico
+por parte de la Universidad de Panamá ni de la Facultad de Informática,
+Electrónica y Comunicación.
+
+Para solicitar autorización de uso, copia o modificación, contactar al autor.
